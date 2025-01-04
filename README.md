@@ -1,5 +1,5 @@
-# Global Superstore Dashboard Overview
-##This project features a comprehensive Excel dashboard designed to provide an insightful overview of the Global Superstore's performance. It is organized to display data interactively across multiple dimensions:
+# Global Superstore Dashboard (Using MS Excel)
+## This project features a comprehensive Excel dashboard designed to provide an insightful overview of the Global Superstore's performance. It is organized to display data interactively across multiple dimensions:
 
 **Category Analysis:-**
 The dashboard offers a clear breakdown of performance across various product categories.

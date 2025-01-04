@@ -22,3 +22,12 @@ The dashboard uses a combination of charts (like bar charts, line graphs, and pi
 It highlights essential KPIs such as total sales, profit margins, and top-performing categories or regions.
 With this user-friendly dashboard, decision-makers can quickly extract valuable insights, identify trends, and drive informed strategies for the Global Superstore.
 
+##Dataset:
+- <a href= "https://github.com/Kailash-chowdhury/Data-Analysis_Dashboard/blob/main/Global%20Superstore%20Dashboard.xlsx">Dataset</a>
+##Dataset Interaction:
+- <a href= "https://github.com/Kailash-chowdhury/Data-Analysis_Dashboard/blob/main/Screenshot%20(85).png"> View Dashboard</a>
+
+##Dasboard Preview
+![Screenshot (85)](https://github.com/user-attachments/assets/ea3cfe21-24f4-468f-833e-e65a869f22c2)
+
+

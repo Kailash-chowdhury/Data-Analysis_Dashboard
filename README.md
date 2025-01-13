@@ -25,7 +25,7 @@ With this user-friendly dashboard, decision-makers can quickly extract valuable 
 ## Dataset:- <a href= "https://github.com/Kailash-chowdhury/Data-Analysis_Dashboard/blob/main/Global%20Superstore%20Dashboard.xlsx">Dataset</a>
 ## Dataset Interaction:- <a href= "https://github.com/Kailash-chowdhury/Data-Analysis_Dashboard/blob/main/Screenshot%20(85).png"> View Dashboard</a>
 
-##Dasboard Preview
+## Dashboard Preview:
 ![Screenshot (85)](https://github.com/user-attachments/assets/ea3cfe21-24f4-468f-833e-e65a869f22c2)
 
 
